@@ -1,0 +1,21 @@
+{
+  "scope": "source.coffee, source.livescript, source.LiveScript",
+  "completions":  [ "Application"
+                  , "Chaplin"
+                  , "Collection"
+                  , "CollectionView"
+                  , "Composer"
+                  , "Controller"
+                  , "Dispatcher"
+                  , "EventBroker"
+                  , "helpers"
+                  , "Layout"
+                  , "mediator"
+                  , "Model"
+                  , "Router"
+                  , "support"
+                  , "SyncMachine"
+                  , "utils"
+                  , "View"
+                  ]
+}

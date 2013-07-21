@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+module.exports = class {$1:ViewName} extends {$2:View}
+	$0
+]]></content>
+	<tabTrigger>view</tabTrigger>
+	<scope>source.coffee, source.livescript, source.LiveScript</scope>
+</snippet>
