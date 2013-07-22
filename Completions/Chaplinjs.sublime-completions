@@ -1,5 +1,5 @@
 {
-  "scope": "source.coffee, source.livescript, source.LiveScript",
+  "scope": "source.coffee, source.js, source.livescript, source.LiveScript",
   "completions":  [ "Application"
                   , "abortSync"
                   , "addCollectionListeners"
@@ -15,6 +15,7 @@
                   , "beginSync"
                   , "changeURL"
                   , "changeURLHandler"
+                  , "Chaplin"
                   , "check"
                   , "Collection"
                   , "CollectionView"

@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-initialize: {$1:($2)} ->
+initialize: (${1:@options = {\}}) ->
 	super ...
 	$0
 ]]></content>
-	<tabTrigger>initialize</tabTrigger>
+	<tabTrigger>initialize options</tabTrigger>
 	<scope>source.livescript, source.LiveScript</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+class ${1:CollectionViewName} extends ${2:CollectionView}
+	$0
+]]></content>
+	<tabTrigger>CollectionView</tabTrigger>
+	<scope>source.coffee</scope>
+</snippet>

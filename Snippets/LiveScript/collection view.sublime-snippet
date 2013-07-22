@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-initialize: ({$1:@options = {}}) ->
-	super ...
+class ${1:CollectionViewName} extends ${2:CollectionView}
 	$0
 ]]></content>
-	<tabTrigger>initialize options</tabTrigger>
+	<tabTrigger>CollectionView</tabTrigger>
 	<scope>source.livescript, source.LiveScript</scope>
 </snippet>
