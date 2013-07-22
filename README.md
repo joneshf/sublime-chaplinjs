@@ -30,3 +30,10 @@ $ git clone https://github.com/joneshf/sublime-chaplinjs
 $ cd "%APPDATA%\Sublime Text 2"
 $ git clone https://github.com/joneshf/sublime-chaplinjs
 ```
+
+## Contributing
+
+Pretty much anything goes with a few exceptions.
+
+* Additions must be directly related to using Chaplin.js.
+* Snippet files __MUST__ use tabs.  This is to ensure uniform snippet insertion.

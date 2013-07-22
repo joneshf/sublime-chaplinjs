@@ -1,6 +1,6 @@
 {
   "scope": "source.coffee, source.js, source.livescript, source.LiveScript",
-  "completions":  [ "$el"
+  "completions":  [ "\\$el"
                   , "add"
                   , "ajax"
                   , "at"
